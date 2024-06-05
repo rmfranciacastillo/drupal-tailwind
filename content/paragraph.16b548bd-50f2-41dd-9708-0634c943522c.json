@@ -1,0 +1,68 @@
+{
+    "uuid": [
+        {
+            "value": "16b548bd-50f2-41dd-9708-0634c943522c"
+        }
+    ],
+    "langcode": [
+        {
+            "value": "en"
+        }
+    ],
+    "type": [
+        {
+            "target_id": "card",
+            "target_type": "paragraphs_type",
+            "target_uuid": "50f91510-4d4c-49c2-b9df-613b22a82f79"
+        }
+    ],
+    "status": [
+        {
+            "value": true
+        }
+    ],
+    "created": [
+        {
+            "value": "2024-06-05T16:45:02+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "behavior_settings": [
+        {
+            "value": []
+        }
+    ],
+    "default_langcode": [
+        {
+            "value": true
+        }
+    ],
+    "revision_translation_affected": [
+        {
+            "value": true
+        }
+    ],
+    "field_card_description": [
+        {
+            "value": "Elf"
+        }
+    ],
+    "field_card_image": [
+        {
+            "target_type": "media",
+            "target_uuid": "4722a792-6cec-4e6a-8a06-115c5b7ad9cb"
+        }
+    ],
+    "field_card_title": [
+        {
+            "value": "Elf"
+        }
+    ],
+    "field_ctas": [
+        {
+            "uri": "https:\/\/google.com",
+            "title": "Search Elf",
+            "options": []
+        }
+    ]
+}

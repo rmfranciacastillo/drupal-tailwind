@@ -1,0 +1,92 @@
+{
+    "uuid": [
+        {
+            "value": "4722a792-6cec-4e6a-8a06-115c5b7ad9cb"
+        }
+    ],
+    "langcode": [
+        {
+            "value": "en"
+        }
+    ],
+    "bundle": [
+        {
+            "target_id": "image",
+            "target_type": "media_type",
+            "target_uuid": "f2997054-c77e-4f8c-8444-bb6b870c6b0a"
+        }
+    ],
+    "revision_created": [
+        {
+            "value": "2024-06-05T16:45:11+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "revision_user": [],
+    "revision_log_message": [],
+    "status": [
+        {
+            "value": true
+        }
+    ],
+    "uid": [
+        {
+            "target_type": "user",
+            "target_uuid": "a20a2cfb-d821-475a-8326-6ed26d204315"
+        }
+    ],
+    "name": [
+        {
+            "value": "Default_Dungeons_and_dragons_female_druid_character_portrait_1.jpg"
+        }
+    ],
+    "thumbnail": [
+        {
+            "alt": "Elf 1",
+            "title": null,
+            "width": 1024,
+            "height": 1024,
+            "target_type": "file",
+            "target_uuid": "02be657d-8dfe-4501-b3db-06569110ff07"
+        }
+    ],
+    "created": [
+        {
+            "value": "2024-06-05T16:45:11+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "changed": [
+        {
+            "value": "2024-06-05T16:45:11+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "default_langcode": [
+        {
+            "value": true
+        }
+    ],
+    "revision_translation_affected": [
+        {
+            "value": true
+        }
+    ],
+    "path": [
+        {
+            "alias": null,
+            "pid": null,
+            "langcode": "en"
+        }
+    ],
+    "field_media_image": [
+        {
+            "alt": "Elf 1",
+            "title": "",
+            "width": 1024,
+            "height": 1024,
+            "target_type": "file",
+            "target_uuid": "02be657d-8dfe-4501-b3db-06569110ff07"
+        }
+    ]
+}

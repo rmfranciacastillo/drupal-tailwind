@@ -1,0 +1,49 @@
+{
+    "file.bf85ed4b-712f-4881-9774-a22adfd6727b": [
+        "user.a20a2cfb-d821-475a-8326-6ed26d204315"
+    ],
+    "media.d1c15f45-e6cb-4acc-b58d-0dcd5e63016b": [
+        "user.a20a2cfb-d821-475a-8326-6ed26d204315",
+        "file.bf85ed4b-712f-4881-9774-a22adfd6727b"
+    ],
+    "file.4babb929-447f-4b18-92fe-f9ddf18302d3": [
+        "user.a20a2cfb-d821-475a-8326-6ed26d204315"
+    ],
+    "media.872f3f4b-9087-4579-89bd-fef4257193f2": [
+        "user.a20a2cfb-d821-475a-8326-6ed26d204315",
+        "file.4babb929-447f-4b18-92fe-f9ddf18302d3"
+    ],
+    "file.b6fef5c2-042f-4ab6-953f-6195d9180fab": [
+        "user.a20a2cfb-d821-475a-8326-6ed26d204315"
+    ],
+    "media.23191c5b-3108-4d7c-b6db-c6ccd055fa4a": [
+        "user.a20a2cfb-d821-475a-8326-6ed26d204315",
+        "file.b6fef5c2-042f-4ab6-953f-6195d9180fab"
+    ],
+    "file.02be657d-8dfe-4501-b3db-06569110ff07": [
+        "user.a20a2cfb-d821-475a-8326-6ed26d204315"
+    ],
+    "media.4722a792-6cec-4e6a-8a06-115c5b7ad9cb": [
+        "user.a20a2cfb-d821-475a-8326-6ed26d204315",
+        "file.02be657d-8dfe-4501-b3db-06569110ff07"
+    ],
+    "paragraph.cbdb1efe-050f-4e88-a8ce-2ec05bcb2b17": [
+        "media.d1c15f45-e6cb-4acc-b58d-0dcd5e63016b"
+    ],
+    "paragraph.bd110a64-b19e-4c44-a14d-10f65749f938": [
+        "media.872f3f4b-9087-4579-89bd-fef4257193f2"
+    ],
+    "paragraph.66c84f72-ffcc-4164-a00a-6686a6c7959c": [
+        "media.23191c5b-3108-4d7c-b6db-c6ccd055fa4a"
+    ],
+    "paragraph.16b548bd-50f2-41dd-9708-0634c943522c": [
+        "media.4722a792-6cec-4e6a-8a06-115c5b7ad9cb"
+    ],
+    "node.e749d540-cc5c-4a44-98e4-39b828654093": [
+        "user.a20a2cfb-d821-475a-8326-6ed26d204315",
+        "paragraph.cbdb1efe-050f-4e88-a8ce-2ec05bcb2b17",
+        "paragraph.bd110a64-b19e-4c44-a14d-10f65749f938",
+        "paragraph.66c84f72-ffcc-4164-a00a-6686a6c7959c",
+        "paragraph.16b548bd-50f2-41dd-9708-0634c943522c"
+    ]
+}

@@ -1,0 +1,55 @@
+{
+    "uuid": [
+        {
+            "value": "bf85ed4b-712f-4881-9774-a22adfd6727b"
+        }
+    ],
+    "langcode": [
+        {
+            "value": "en"
+        }
+    ],
+    "uid": [
+        {
+            "target_type": "user",
+            "target_uuid": "a20a2cfb-d821-475a-8326-6ed26d204315"
+        }
+    ],
+    "filename": [
+        {
+            "value": "Default_Dungeons_and_dragons_male_dwarf_character_portrait_wi_3.jpg"
+        }
+    ],
+    "uri": [
+        {
+            "value": "public:\/\/2024-06\/Default_Dungeons_and_dragons_male_dwarf_character_portrait_wi_3.jpg"
+        }
+    ],
+    "filemime": [
+        {
+            "value": "image\/jpeg"
+        }
+    ],
+    "filesize": [
+        {
+            "value": 692925
+        }
+    ],
+    "status": [
+        {
+            "value": true
+        }
+    ],
+    "created": [
+        {
+            "value": "2024-06-05T16:43:37+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "changed": [
+        {
+            "value": "2024-06-05T16:43:44+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ]
+}

@@ -1,0 +1,22 @@
+uuid: 5ef4e659-e74c-448c-acb8-d75f051a3f69
+langcode: en
+status: true
+dependencies:
+  module:
+    - system
+  theme:
+    - drupaltw
+_core:
+  default_config_hash: erQSEZF2XUjNmgTl0uNRBzmg18ZGXwUcw2FhApoeuHk
+id: drupaltw_content
+theme: drupaltw
+region: content
+weight: 0
+provider: null
+plugin: system_main_block
+settings:
+  id: system_main_block
+  label: 'Main page content'
+  label_display: '0'
+  provider: system
+visibility: {  }

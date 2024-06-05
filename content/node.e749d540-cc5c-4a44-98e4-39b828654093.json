@@ -1,0 +1,106 @@
+{
+    "uuid": [
+        {
+            "value": "e749d540-cc5c-4a44-98e4-39b828654093"
+        }
+    ],
+    "langcode": [
+        {
+            "value": "en"
+        }
+    ],
+    "type": [
+        {
+            "target_id": "page",
+            "target_type": "node_type",
+            "target_uuid": "1b4b8254-7906-4dfb-b94a-bdbf443464a9"
+        }
+    ],
+    "revision_timestamp": [
+        {
+            "value": "2024-06-05T16:45:35+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "revision_uid": [
+        {
+            "target_type": "user",
+            "target_uuid": "a20a2cfb-d821-475a-8326-6ed26d204315"
+        }
+    ],
+    "revision_log": [],
+    "status": [
+        {
+            "value": true
+        }
+    ],
+    "uid": [
+        {
+            "target_type": "user",
+            "target_uuid": "a20a2cfb-d821-475a-8326-6ed26d204315"
+        }
+    ],
+    "title": [
+        {
+            "value": "Slide Page"
+        }
+    ],
+    "created": [
+        {
+            "value": "2024-06-05T16:42:49+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "changed": [
+        {
+            "value": "2024-06-05T16:45:35+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "promote": [
+        {
+            "value": false
+        }
+    ],
+    "sticky": [
+        {
+            "value": false
+        }
+    ],
+    "default_langcode": [
+        {
+            "value": true
+        }
+    ],
+    "revision_translation_affected": [
+        {
+            "value": true
+        }
+    ],
+    "path": [
+        {
+            "alias": "",
+            "pid": null,
+            "langcode": "en"
+        }
+    ],
+    "body": [],
+    "field_slides": [
+        {
+            "target_type": "paragraph",
+            "target_uuid": "cbdb1efe-050f-4e88-a8ce-2ec05bcb2b17"
+        },
+        {
+            "target_type": "paragraph",
+            "target_uuid": "bd110a64-b19e-4c44-a14d-10f65749f938"
+        },
+        {
+            "target_type": "paragraph",
+            "target_uuid": "66c84f72-ffcc-4164-a00a-6686a6c7959c"
+        },
+        {
+            "target_type": "paragraph",
+            "target_uuid": "16b548bd-50f2-41dd-9708-0634c943522c"
+        }
+    ]
+}
