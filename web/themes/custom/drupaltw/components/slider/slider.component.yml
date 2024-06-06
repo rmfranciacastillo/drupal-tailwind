@@ -12,3 +12,12 @@ slots:
   slides:
     title: Slides
     description: Content that overrides the slides in the carousel
+libraryOverrides:
+  css:
+    component:
+      //cdn.jsdelivr.net/npm/swiper@11/swiper-bundle.min.css: { type: external, minified: true }
+      slider.css: {}
+  js:
+    //cdn.jsdelivr.net/npm/swiper@11/swiper-bundle.min.js: { type: external, minified: true }
+    slider.js: {}
+
