@@ -1,0 +1,22 @@
+uuid: 9f54c000-7b4e-4966-8809-183c988ec70a
+langcode: en
+status: false
+dependencies:
+  module:
+    - help
+  theme:
+    - drupaltw
+_core:
+  default_config_hash: VfPFqqxfkomud5CO8DUijw85QIl9GIxh_nIxLOYESxg
+id: drupaltw_help
+theme: drupaltw
+region: header
+weight: 0
+provider: null
+plugin: help_block
+settings:
+  id: help_block
+  label: Help
+  label_display: '0'
+  provider: help
+visibility: {  }

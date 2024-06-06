@@ -1,0 +1,62 @@
+{
+    "uuid": [
+        {
+            "value": "66c84f72-ffcc-4164-a00a-6686a6c7959c"
+        }
+    ],
+    "langcode": [
+        {
+            "value": "en"
+        }
+    ],
+    "type": [
+        {
+            "target_id": "card",
+            "target_type": "paragraphs_type",
+            "target_uuid": "50f91510-4d4c-49c2-b9df-613b22a82f79"
+        }
+    ],
+    "status": [
+        {
+            "value": true
+        }
+    ],
+    "created": [
+        {
+            "value": "2024-06-05T16:44:34+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "behavior_settings": [
+        {
+            "value": []
+        }
+    ],
+    "default_langcode": [
+        {
+            "value": true
+        }
+    ],
+    "revision_translation_affected": [
+        {
+            "value": true
+        }
+    ],
+    "field_card_description": [
+        {
+            "value": "Dwarf 3 "
+        }
+    ],
+    "field_card_image": [
+        {
+            "target_type": "media",
+            "target_uuid": "23191c5b-3108-4d7c-b6db-c6ccd055fa4a"
+        }
+    ],
+    "field_card_title": [
+        {
+            "value": "Dwarf 3"
+        }
+    ],
+    "field_ctas": []
+}

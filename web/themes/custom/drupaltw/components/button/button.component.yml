@@ -1,0 +1,15 @@
+name: button
+props:
+  type: object
+  description: This is a button
+  properties:
+    title:
+      title: Button
+      type: string
+      description: Button title
+      example:
+        - 'Button title'
+slots:
+  buttons:
+    title: button title
+    description: 'A button inside a button'

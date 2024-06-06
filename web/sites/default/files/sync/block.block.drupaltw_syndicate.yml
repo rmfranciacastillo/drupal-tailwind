@@ -1,0 +1,23 @@
+uuid: 360c1801-cf8c-429a-ab6e-31b675411dbb
+langcode: en
+status: false
+dependencies:
+  module:
+    - node
+  theme:
+    - drupaltw
+_core:
+  default_config_hash: 0gq3VPg-_UM69FCCWurLFIrrnIjC2HLKhwo9iQNtcUo
+id: drupaltw_syndicate
+theme: drupaltw
+region: header
+weight: 0
+provider: null
+plugin: node_syndicate_block
+settings:
+  id: node_syndicate_block
+  label: 'RSS feed'
+  label_display: '0'
+  provider: node
+  block_count: 10
+visibility: {  }
